@@ -1,0 +1,15 @@
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\12\29\29_WPF_Triggers\29_WPF_Triggers\29_WPF_Triggers\bin\Debug\29_WPF_Triggers.exe.config
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\12\29\29_WPF_Triggers\29_WPF_Triggers\29_WPF_Triggers\bin\Debug\29_WPF_Triggers.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\12\29\29_WPF_Triggers\29_WPF_Triggers\29_WPF_Triggers\bin\Debug\29_WPF_Triggers.pdb
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\12\29\29_WPF_Triggers\29_WPF_Triggers\29_WPF_Triggers\obj\Debug\29_WPF_Triggers.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\12\29\29_WPF_Triggers\29_WPF_Triggers\29_WPF_Triggers\obj\Debug\MainWindow.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\12\29\29_WPF_Triggers\29_WPF_Triggers\29_WPF_Triggers\obj\Debug\App.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\12\29\29_WPF_Triggers\29_WPF_Triggers\29_WPF_Triggers\obj\Debug\29_WPF_Triggers_MarkupCompile.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\12\29\29_WPF_Triggers\29_WPF_Triggers\29_WPF_Triggers\obj\Debug\29_WPF_Triggers_MarkupCompile.lref
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\12\29\29_WPF_Triggers\29_WPF_Triggers\29_WPF_Triggers\obj\Debug\MainWindow.baml
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\12\29\29_WPF_Triggers\29_WPF_Triggers\29_WPF_Triggers\obj\Debug\29_WPF_Triggers.g.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\12\29\29_WPF_Triggers\29_WPF_Triggers\29_WPF_Triggers\obj\Debug\_29_WPF_Triggers.Properties.Resources.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\12\29\29_WPF_Triggers\29_WPF_Triggers\29_WPF_Triggers\obj\Debug\29_WPF_Triggers.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\12\29\29_WPF_Triggers\29_WPF_Triggers\29_WPF_Triggers\obj\Debug\29_WPF_Triggers.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\12\29\29_WPF_Triggers\29_WPF_Triggers\29_WPF_Triggers\obj\Debug\29_WPF_Triggers.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\12\29\29_WPF_Triggers\29_WPF_Triggers\29_WPF_Triggers\obj\Debug\29_WPF_Triggers.pdb
